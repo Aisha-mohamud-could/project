@@ -1,0 +1,27 @@
+.inputParent{
+  margin: 50px;
+  
+}
+
+.inputParent input{
+    width: 600px;
+    height: 40px;
+    padding-left: 50px;
+    border-radius: 30px;
+   
+
+}
+.child{
+    justify-content: space-around;
+    gap: 20px;
+    position: relative;
+    background-color: aqua;
+   
+}
+h1:hover{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 20px;
+
+}
